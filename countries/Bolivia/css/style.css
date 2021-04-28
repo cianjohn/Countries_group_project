@@ -1,0 +1,17 @@
+html, body {height: 100%;
+font-family: cursive;
+background-color: lightcyan;}
+
+
+
+
+
+.intro-text {
+    background-image: url(../images/cloud.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 700px;
+    text-align: center;
+ }
+
+ 
